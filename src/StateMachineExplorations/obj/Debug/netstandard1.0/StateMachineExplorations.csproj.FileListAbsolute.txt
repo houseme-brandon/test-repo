@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\test-repo\src\StateMachineExplorations\bin\Debug\netstandard1.0\StateMachineExplorations.dll
+C:\Users\User\Source\Repos\test-repo\src\StateMachineExplorations\bin\Debug\netstandard1.0\StateMachineExplorations.pdb
+C:\Users\User\Source\Repos\test-repo\src\StateMachineExplorations\obj\Debug\netstandard1.0\StateMachineExplorations.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\test-repo\src\StateMachineExplorations\obj\Debug\netstandard1.0\StateMachineExplorations.AssemblyInfo.cs
+C:\Users\User\Source\Repos\test-repo\src\StateMachineExplorations\obj\Debug\netstandard1.0\StateMachineExplorations.dll
+C:\Users\User\Source\Repos\test-repo\src\StateMachineExplorations\obj\Debug\netstandard1.0\StateMachineExplorations.pdb
