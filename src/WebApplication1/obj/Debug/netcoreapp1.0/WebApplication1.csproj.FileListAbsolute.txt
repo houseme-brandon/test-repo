@@ -7,3 +7,12 @@ c:\users\user\documents\visual studio 2017\Projects\WebApplication1\src\WebAppli
 c:\users\user\documents\visual studio 2017\Projects\WebApplication1\src\WebApplication1\obj\Debug\netcoreapp1.0\WebApplication1.AssemblyInfo.cs
 c:\users\user\documents\visual studio 2017\Projects\WebApplication1\src\WebApplication1\obj\Debug\netcoreapp1.0\WebApplication1.dll
 c:\users\user\documents\visual studio 2017\Projects\WebApplication1\src\WebApplication1\obj\Debug\netcoreapp1.0\WebApplication1.pdb
+C:\Users\User\Source\Repos\test-repo\src\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.deps.json
+C:\Users\User\Source\Repos\test-repo\src\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.runtimeconfig.json
+C:\Users\User\Source\Repos\test-repo\src\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\test-repo\src\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.dll
+C:\Users\User\Source\Repos\test-repo\src\WebApplication1\bin\Debug\netcoreapp1.0\WebApplication1.pdb
+C:\Users\User\Source\Repos\test-repo\src\WebApplication1\obj\Debug\netcoreapp1.0\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\test-repo\src\WebApplication1\obj\Debug\netcoreapp1.0\WebApplication1.AssemblyInfo.cs
+C:\Users\User\Source\Repos\test-repo\src\WebApplication1\obj\Debug\netcoreapp1.0\WebApplication1.dll
+C:\Users\User\Source\Repos\test-repo\src\WebApplication1\obj\Debug\netcoreapp1.0\WebApplication1.pdb
