@@ -1,7 +1,7 @@
 {
   "version": 2,
   "targets": {
-    ".NETCoreApp,Version=v1.1": {
+    ".NETCoreApp,Version=v1.0": {
       "libphonenumbers-dotnet/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -7933,7 +7933,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v1.1": [
+    ".NETCoreApp,Version=v1.0": [
       "Microsoft.NET.Test.Sdk >= 15.0.0-preview-20161123-03",
       "Microsoft.NETCore.App >= 1.0.1",
       "Shared.Domain.ValueObjects",
@@ -7952,10 +7952,10 @@
       "outputPath": "C:\\Users\\User\\Source\\Repos\\test-repo\\HouseMe\\Tests\\obj\\",
       "outputType": "NETCore",
       "originalTargetFrameworks": [
-        "netcoreapp1.1"
+        "netcoreapp1.0"
       ],
       "frameworks": {
-        "netcoreapp1.1": {
+        "netcoreapp1.0": {
           "projectReferences": {
             "C:\\Users\\User\\Source\\Repos\\test-repo\\HouseMe\\Shared.Domain.ValueObjects\\Shared.Domain.ValueObjects.csproj": {
               "projectPath": "C:\\Users\\User\\Source\\Repos\\test-repo\\HouseMe\\Shared.Domain.ValueObjects\\Shared.Domain.ValueObjects.csproj"
@@ -7965,7 +7965,7 @@
       }
     },
     "frameworks": {
-      "netcoreapp1.1": {
+      "netcoreapp1.0": {
         "dependencies": {
           "xunit.runner.visualstudio": {
             "target": "Package",
